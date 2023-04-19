@@ -19,4 +19,4 @@
 
 ### 为防杀软误杀，建议使用火绒安全，并将软件添加到白名单。
 
-[小强广告拦截](https://xqad.github.io/xxad/)
+[小强广告拦截](https://xqad.github.io/xqad/)
